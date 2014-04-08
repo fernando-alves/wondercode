@@ -1,3 +1,5 @@
+{<img src='https://smoke.snap-ci.com/projects/fernando-alves/wondercode/build_image' alt='Build Status' />}[https://smoke.snap-ci.com/projects/fernando-alves/wondercode/build_history]
+
 == README
 
 This README would normally document whatever steps are necessary to get the
